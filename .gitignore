@@ -1,0 +1,29 @@
+# TensorFlow
+/.tf_cache/
+/.tfrecord/
+/tf_logs/
+
+# Python virtual environment
+/.venv/
+/myenv/
+
+# Compiled Python files
+*.pyc
+
+# Compiled C++ files
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Compiled binaries
+/bin/
+/build/
+
+# Package files
+*.egg-info/
+dist/
