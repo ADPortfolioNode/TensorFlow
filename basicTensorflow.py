@@ -49,7 +49,7 @@ def add():
   return add_1_operation
 
 print("Defined using tensorflow function:")
-add_1_operation = add()Hey Cortana, 
+add_1_operation = add()
 print(add_1_operation)
 print("Defined using normal expressions:")
 add_2_operation = Matrix_one + Matrix_two
